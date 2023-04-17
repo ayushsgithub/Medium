@@ -26,7 +26,7 @@ export default function Home({ posts }: Props) {
           </h1>
 
           <h2>
-            It's easy and free to post your thinking on any topic and connect
+            It is easy and free to post your thinking on any topic and connect
             with millions of readers.
           </h2>
         </div>
